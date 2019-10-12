@@ -10,5 +10,7 @@ Cygwin binary file collection
 - [upx.exe](https://github.com/upx/upx.git): UPX - the Ultimate Packer for eXecutables
 - [ss-local.exe ss-manager.exe ss-server.exe ss-tunnel.exe obfs-local.exe obfs-server.exe](https://github.com/shadowsocks/shadowsocks-libev.git): libev port of shadowsocks
 - [unrar.exe](https://www.rarlab.com/rar_add.htm): Uncompress for WinRAR archiver
+- [nnn.exe](https://github.com/fengyichui/nnn.git): The missing terminal file manager for X
+- [chinadns.exe](https://github.com/shadowsocks/ChinaDNS.git): Protect yourself against DNS poisoning in China.
 - hsbleisp.exe: HS662x ISP commandline tool
 
