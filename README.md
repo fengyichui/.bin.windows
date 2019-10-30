@@ -9,6 +9,7 @@ Cygwin binary file collection
 - [shfmt.exe](https://github.com/mvdan/sh.git): A shell parser, formatter, and interpreter (sh/bash/mksh)
 - [upx.exe](https://github.com/upx/upx.git): UPX - the Ultimate Packer for eXecutables
 - [ss-local.exe ss-manager.exe ss-server.exe ss-tunnel.exe obfs-local.exe obfs-server.exe](https://github.com/shadowsocks/shadowsocks-libev.git): libev port of shadowsocks
+- [shadowsocks-libqss.exe](https://github.com/shadowsocks/libQtShadowsocks.git): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
 - [unrar.exe](https://www.rarlab.com/rar_add.htm): Uncompress for WinRAR archiver
 - [nnn.exe](https://github.com/fengyichui/nnn.git): The missing terminal file manager for X
 - [chinadns.exe](https://github.com/shadowsocks/ChinaDNS.git): Protect yourself against DNS poisoning in China.
