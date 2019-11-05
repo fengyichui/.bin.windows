@@ -13,5 +13,6 @@ Cygwin binary file collection
 - [unrar.exe](https://www.rarlab.com/rar_add.htm): Uncompress for WinRAR archiver
 - [nnn.exe](https://github.com/fengyichui/nnn.git): The missing terminal file manager for X
 - [chinadns.exe](https://github.com/shadowsocks/ChinaDNS.git): Protect yourself against DNS poisoning in China.
+- [winpty.exe](https://github.com/rprichard/winpty.git): A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 - hsbleisp.exe: HS662x ISP commandline tool
 
