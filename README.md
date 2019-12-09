@@ -14,6 +14,8 @@ Cygwin binary file collection
 - [nnn.exe](https://github.com/fengyichui/nnn.git): The missing terminal file manager for X
 - [chinadns.exe](https://github.com/shadowsocks/ChinaDNS.git): Protect yourself against DNS poisoning in China.
 - [winpty.exe](https://github.com/rprichard/winpty.git): A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
-- [notifu.exe](http://www.paralint.com/projects/notifu): a free open source pop-up balloon utility
+- [notifu.exe](http://www.paralint.com/projects/notifu): A free open source pop-up balloon utility
+- [winsw.exe](https://github.com/kohsuke/winsw.git): A wrapper executable that can be used to host any executable as an Windows service
+- [frpc.exe](https://github.com/fatedier/frp.git): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 - hsbleisp.exe: HS662x ISP commandline tool
 
