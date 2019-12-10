@@ -32,9 +32,9 @@ All options in other sections are optional
 -->
   
   <!-- ID of the service. It should be unique accross the Windows system-->
-  <id>frpc</id>
+  <id>frpc_aliyun</id>
   <!-- Display name of the service -->
-  <name>Frp Client Service</name>
+  <name>Frp Client Service (aliyun-ecs)</name>
   <!-- Service description -->
   <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
   
