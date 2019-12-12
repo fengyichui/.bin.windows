@@ -1,0 +1,11 @@
+#!/bin/bash
+
+svc_name="frpc_aliyun"
+svc_exe_path="$abscygdir/../../../windows/frpc.exe"
+svc_exe_args="-c \"$abswindir/../frpc_aliyun_office_tocken.ini\""
+svc_display="Frp Client Service (aliyun-ecs)"
+svc_desc="A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet"
+svc_depend="--dep tcpip"
+svc_env="--env HOME=$HOME"
+svc_type="auto" # [auto|manual]
+
