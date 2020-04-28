@@ -18,7 +18,7 @@ Windows/Linux binary file collection
 - [winsw.exe](https://github.com/kohsuke/winsw.git): A wrapper executable that can be used to host any executable as an Windows service
 - [frpc.exe](https://github.com/fatedier/frp.git): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 - [BaiduPCS-Go.exe](https://github.com/iikira/BaiduPCS-Go.git): Baidu Yun Pan command line client
-- [qrcp.exe](https://github.com/pearl2201/qrcp.git): Transfer files over wifi from your computer to your mobile device by scanning a QR code.
+- [qrcp.exe](https://github.com/claudiodangelis/qrcp.git): Transfer files over wifi from your computer to your mobile device by scanning a QR code.
 - dumpbin.exe: dump bin info
 - hsbleisp.exe: HS662x ISP commandline tool
 
