@@ -1,6 +1,6 @@
-# .bin for Windows/Linux
+# .bin for Windows
 
-Windows/Linux binary file collection
+Windows binary file collection
 
 - [bbe.exe](https://sourceforge.net/projects/bbe-/): bbe is a sed-like editor for binary files.
 - [gron.exe](https://github.com/tomnomnom/gron.git): Make JSON greppable!
