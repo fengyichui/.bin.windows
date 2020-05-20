@@ -20,6 +20,7 @@ Windows binary file collection
 - [BaiduPCS-Go.exe](https://github.com/iikira/BaiduPCS-Go.git): Baidu Yun Pan command line client
 - [qrcp.exe](https://github.com/claudiodangelis/qrcp.git): Transfer files over wifi from your computer to your mobile device by scanning a QR code.
 - [MapViewer.exe](https://github.com/govind-mukundan/MapViewer.git): A windows application to view and analyze information from the linker generated Map file
+- [amap.exe](http://www.sikorskiy.net/prj/amap/):  A tool to analyze .MAP files
 - dumpbin.exe: dump bin info
 - hsbleisp.exe: HS662x ISP commandline tool
 
