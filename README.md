@@ -17,7 +17,6 @@ Windows binary file collection
 - [notifu.exe](http://www.paralint.com/projects/notifu): A free open source pop-up balloon utility
 - [winsw.exe](https://github.com/winsw/winsw.git): A wrapper executable that can run any executable as a Windows service
 - [frpc.exe](https://github.com/fatedier/frp.git): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
-- [BaiduPCS-Go.exe](https://github.com/iikira/BaiduPCS-Go.git): Baidu Yun Pan command line client
 - [qrcp.exe](https://github.com/claudiodangelis/qrcp.git): Transfer files over wifi from your computer to your mobile device by scanning a QR code.
 - [MapViewer.exe](https://github.com/govind-mukundan/MapViewer.git): A windows application to view and analyze information from the linker generated Map file
 - [amap.exe](http://www.sikorskiy.net/prj/amap/):  A tool to analyze .MAP files
