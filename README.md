@@ -21,6 +21,7 @@ Windows binary file collection
 - [MapViewer.exe](https://github.com/govind-mukundan/MapViewer.git): A windows application to view and analyze information from the linker generated Map file
 - [amap.exe](http://www.sikorskiy.net/prj/amap/):  A tool to analyze .MAP files
 - [gsudo.exe](https://github.com/gerardog/gsudo.git): A Sudo for Windows - run elevated without spawning a new Console Host Window
+- [picellif.exe](https://github.com/roryyorke/picellif.git): Send a list of files to the Windows clipboard for pasting in Outlook, Explorer, etc.
 - dumpbin.exe: dump bin info
 - hsbleisp.exe: HS662x ISP commandline tool
 
